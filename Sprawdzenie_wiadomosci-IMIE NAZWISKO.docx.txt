@@ -1,0 +1,74 @@
+﻿https://tinyurl.com/bddccre7
+Sprawdzenie wiadomości o relacyjnych bazach danych (MySQL)
+	Odpowiadamy na pytania jedynie swoimi słowami
+	1. Na czym polega funkcjonowanie relacyjnej bazy danych.
+	
+
+
+
+	2. Co to jest encja?
+	
+
+
+
+	3. Do czego służy klucz główny (PK)?
+	
+
+
+
+	4. Z czego składa się tabela w relacyjnej bazie danych?
+	
+
+
+
+	5. Czym się różnią wyzwalacze od procedur?
+	
+
+
+
+	6. Jakie znasz zapytania w języku SQL służące do definiowania struktur (DDL)?
+	
+
+
+
+	7. Wypisz znane Ci typy danych w MySQL.
+	
+
+
+
+	8. Jakie domyślne atrybuty powinien zawierać klucz główny?
+	
+
+
+
+	9. Czym są związki (relacje) między encjami?
+	
+
+
+
+	10. Do czego służy klucz obcy (FK)?
+	
+
+
+
+	11. Jakie znasz relacyjne bazy danych?
+	
+
+
+
+	12. Jakie znasz zapytania w języku SQL służące do przetwarzania danych (DML)?
+	
+
+
+
+	13. Czym się różni DML od DDL?
+	
+
+
+
+	14. Jakiego słowa kluczowego (atrybutu) używamy gdy chcemy aby konkretna kolumna w tabeli była unikalna?
+	
+
+
+
+	15. W jakim rozszerzeniu pliku jest zapisywana baza danych po exporcie?
